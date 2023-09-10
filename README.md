@@ -1,5 +1,8 @@
 # Olá, me chamo Léo !!
 ### Bem vindo ao meu perfil GitHub 👋
+- Sou estudante da Universidade Federal de Santa Maria
+- Atualmente estou focado em desenvolvimento Back-end
+###### Hard work beats talent
 
 ## Ferramentas e Tecnologias 
 <span style="display: inline-block;">
@@ -20,7 +23,7 @@
 
 <div>
 <a href="https://github.com/leomattos7">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomattos7&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomattos7&layout=compact&langs_count=7&theme=gotham"/>
 </div>
     
 ## Contatos:
