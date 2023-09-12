@@ -22,8 +22,9 @@
 </span>   
 
 <div>
-<a href="https://github.com/leomattos7">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomattos7&layout=compact&langs_count=7&theme=gotham"/>
+<a href="https://github.com/leomattos7/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leomattos7&repo=github-readme-stats"/>
+</a>
 </div>
     
 ## Contatos:
