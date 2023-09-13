@@ -22,10 +22,8 @@
 </span>   
 
 <div>
-<a href="https://github.com/leomattos7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leomattos7&repo=github-readme-stats"/>
-</a>
-</div>
+    <img alt="Most Used Languages" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomattos7&hide=html&layout=compact&theme=material-palenight">
+<div>
     
 ## Contatos:
 <div>
