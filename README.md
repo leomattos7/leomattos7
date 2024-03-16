@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 - Sou estudante da Universidade Federal de Santa Maria
 - Atualmente estou focado em desenvolvimento Back-end
-###### Hard work beats talent
+
 
 ## Ferramentas e Tecnologias 
 <span style="display: inline-block;">
